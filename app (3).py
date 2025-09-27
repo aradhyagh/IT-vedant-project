@@ -6,7 +6,7 @@ import numpy as np
 with open("scaler (1).pkl", "rb") as f:
     scaler = pickle.load(f)
 
-with open("xgb_model.pkl", "rb") as f:
+with open("lr_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 st.set_page_config(page_title="Flood Risk Classification", layout="centered")
