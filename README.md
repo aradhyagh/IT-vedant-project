@@ -3,7 +3,7 @@
 streamlit deployment app: https://it-vedant-project-zarknshuahd3pgguikeqnd.streamlit.app/
 
 
-Documentation: https://github.com/aradhyagh/IT-vedant-project/blob/main/documentation.pdf
+Documentation: https://github.com/aradhyagh/IT-vedant-project/blob/main/final-documentation.pdf
 
 
 Dataset Link: https://drive.google.com/drive/folders/1XYiJJJN--g4_uUbq-LzvNpvciU2JiorI?usp=sharing
